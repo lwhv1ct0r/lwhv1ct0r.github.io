@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>V1ct0r&#39;s Blog</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://v1ct0r.com/"/>
+  <updated>2017-07-03T04:45:06.087Z</updated>
+  <id>http://v1ct0r.com/</id>
+  
+  <author>
+    <name>V1ct0r</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="http://v1ct0r.com/hello/"/>
+    <id>http://v1ct0r.com/hello/</id>
+    <published>2017-07-03T04:43:22.000Z</published>
+    <updated>2017-07-03T04:45:06.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>this is a test page.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;this is a test page.&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="test" scheme="http://v1ct0r.com/tags/test/"/>
+    
+  </entry>
+  
+</feed>
