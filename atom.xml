@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://v1ct0r.com/"/>
-  <updated>2017-07-03T04:45:06.087Z</updated>
+  <updated>2017-07-03T06:23:30.613Z</updated>
   <id>http://v1ct0r.com/</id>
   
   <author>
@@ -16,24 +16,24 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello</title>
-    <link href="http://v1ct0r.com/hello/"/>
-    <id>http://v1ct0r.com/hello/</id>
-    <published>2017-07-03T04:43:22.000Z</published>
-    <updated>2017-07-03T04:45:06.087Z</updated>
+    <title>Hello World</title>
+    <link href="http://v1ct0r.com/Hello-World/"/>
+    <id>http://v1ct0r.com/Hello-World/</id>
+    <published>2017-07-03T06:19:18.000Z</published>
+    <updated>2017-07-03T06:23:30.613Z</updated>
     
-    <content type="html"><![CDATA[<p>this is a test page.</p>
+    <content type="html"><![CDATA[<p>博客之前放在新浪云上面，经常由于流量耗光而挂掉，这次索性就放在 Github上面、避免烦恼了 :）</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;this is a test page.&lt;/p&gt;
+      &lt;p&gt;博客之前放在新浪云上面，经常由于流量耗光而挂掉，这次索性就放在 Github上面、避免烦恼了 :）&lt;/p&gt;
 
     
     </summary>
     
     
-      <category term="test" scheme="http://v1ct0r.com/tags/test/"/>
+      <category term="others" scheme="http://v1ct0r.com/tags/others/"/>
     
   </entry>
   
